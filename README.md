@@ -4,6 +4,7 @@
 This was my second JavaScript project using: 
 - HTML
 - CSS
+- Keyframes
 - Media Queries
 - JavaScript
 - API
